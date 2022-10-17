@@ -1,0 +1,8 @@
+const query = graphql`
+    query extractTestQuery {
+        me {
+            name
+        }
+    }
+`;
+    

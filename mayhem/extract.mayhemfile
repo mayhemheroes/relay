@@ -1,0 +1,6 @@
+project: relay
+target: extract
+testsuite:
+  - file://mayhem/corpus/extract
+cmds:
+  - cmd: /fuzzers/fuzz_extract
