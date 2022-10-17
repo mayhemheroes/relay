@@ -1,0 +1,6 @@
+type A implements B {
+    key: String
+}
+interface B {
+    id: ID!
+}

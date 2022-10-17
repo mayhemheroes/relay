@@ -1,0 +1,6 @@
+project: relay
+target: schema
+testsuite:
+  - file://mayhem/corpus/schema
+cmds:
+  - cmd: /fuzzers/fuzz_schema

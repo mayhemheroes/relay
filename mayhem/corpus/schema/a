@@ -1,0 +1,6 @@
+type A {
+    key: String
+}
+type B {
+    key: String
+}
